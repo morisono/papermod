@@ -1,0 +1,194 @@
+baseURL: https://morisono.github.io/papermod
+languageCode: ja
+title: Blog
+theme:
+
+enableInlineShortcodes: true
+enableEmoji: true
+enableRobotsTXT: true
+hasCJKLanguage: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+paginate: 15
+summaryLength: 100
+
+minify:
+    disableXML: true
+
+permalinks:
+    post: "/:title/"
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+
+profileMode:
+    enabled: true
+    title: ｸﾞｯ!(๑•̀ㅂ•́)و✧
+    subtitle: "<br/>ようこそ👏🏼<br/>"
+    imageUrl: "images/photo.jpg"
+    imageTitle:
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+        - name: ノート
+          url: posts/study
+        - name: 日記
+          url: posts/bugs
+        - name: 雑談
+          url: posts/life
+
+menu:
+    main:
+        - identifier: search
+          name: 🔍検索
+          url: search
+          weight: 1
+        - identifier: home
+          name: 🏠ホーム
+          url: /
+          weight: 2
+        - identifier: posts
+          name: 📚 記事
+          url: posts
+          weight: 3
+        - identifier: tags
+          name: 🔖タグ
+          url: tags
+          weight: 15
+        - identifier: archives
+          name: ⏱アーカイブ
+          url: archives/
+          weight: 20
+        - identifier: about
+          name: 🙋🏻‍♂️概要
+          url: about
+          weight: 30
+        - identifier: links
+          name: 🤝リンク
+          url: links
+          weight: 40
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production
+    description: "Talk tech, business, life."
+    author: user
+    defaultTheme: auto
+    disableThemeToggle: false
+    DateFormat: "2006-01-02"
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    hideFooter: false
+    ShowWordCounts: true
+    VisitCount: true
+    ShowLastMod: true
+
+    ShowToc: true
+    TocOpen: true
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/"
+        - name: email
+          url: "mailto:email@email.com"
+        - name: RSS
+          url: "index.xml"
+
+    label:
+        text: "Blog"
+        icon: "images/photo.jpg"
+        iconHeight: 35
+
+    analytics:
+        google:
+            SiteVerificationTag: ""
+
+    assets:
+        favicon: "images/photo.jpg"
+        favicon16x16: "images/photo.jpg"
+        favicon32x32: "images/photo.jpg"
+        apple_touch_icon: "photo.jpg"
+        safari_pinned_tab: "photo.jpg"
+
+    cover:
+        hidden: true
+        hiddenInList: true
+        hiddenInSingle: true
+
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary"]
+
+    StartYear: 2024
+    FilingNo: 0001
+    PublicSecurityIconLink: images/beian.png
+    PublicNetworkSecurity: 0001
+
+    Reward: true
+    WechatPay: "images/wechat_pay.png"
+    Alipay: "images/alipay.png"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        codeFences: true
+        guessSyntax: true
+        noClasses: false
+        tabWidth: 4
+        style: darcula
+        lineNumbersInTable: true
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true

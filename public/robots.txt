@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://morisono.github.io/papermod/sitemap.xml

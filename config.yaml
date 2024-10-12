@@ -24,7 +24,7 @@ permalinks:
     post: "/:title/"
 
 defaultContentLanguage: ja
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 languages:
     en:

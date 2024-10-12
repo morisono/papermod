@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Contents on My New Hugo Site</title>
-    <link>https://example.org/content/</link>
-    <description>Recent content in Contents on My New Hugo Site</description>
+    <title>Contents on Blog</title>
+    <link>https://morisono.github.io/papermod/content/</link>
+    <description>Recent content in Contents on Blog</description>
     <generator>Hugo -- 0.134.3</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/content/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Fri, 11 Oct 2024 14:30:21 +0000</lastBuildDate>
+    <atom:link href="https://morisono.github.io/papermod/content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01.01_first Post</title>
+      <link>https://morisono.github.io/papermod/01.01-first-post</link>
+      <pubDate>Fri, 11 Oct 2024 14:30:21 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/01.01-first-post</guid>
+      <description>01.01_first Post</description>
+    </item>
   </channel>
 </rss>

@@ -23,12 +23,16 @@ minify:
 permalinks:
     post: "/:title/"
 
-defaultContentLanguage: en
+defaultContentLanguage: ja
 defaultContentLanguageInSubdir: true
 
 languages:
     en:
         languageName: "English"
+        weight: 1
+
+    ja:
+        languageName: "Japanese"
         weight: 1
 
 profileMode:
@@ -58,7 +62,7 @@ menu:
           url: /
           weight: 2
         - identifier: posts
-          name: 📚 記事
+          name: 📚記事
           url: posts
           weight: 3
         - identifier: tags

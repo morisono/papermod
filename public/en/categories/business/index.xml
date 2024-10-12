@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Business on Blog</title>
+    <link>https://morisono.github.io/papermod/en/categories/business/</link>
+    <description>Recent content in Business on Blog</description>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 15:22:40 +0000</lastBuildDate>
+    <atom:link href="https://morisono.github.io/papermod/en/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01.03_third Post</title>
+      <link>https://morisono.github.io/papermod/01.03-third-post</link>
+      <pubDate>Fri, 11 Oct 2024 15:22:40 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/01.03-third-post</guid>
+      <description>01.03_third Post</description>
+    </item>
+  </channel>
+</rss>

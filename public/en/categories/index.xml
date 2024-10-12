@@ -6,6 +6,21 @@
     <description>Recent content in Categories on Blog</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 15:22:40 +0000</lastBuildDate>
     <atom:link href="https://morisono.github.io/papermod/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>https://morisono.github.io/papermod/en/categories/business/</link>
+      <pubDate>Fri, 11 Oct 2024 15:22:40 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/en/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://morisono.github.io/papermod/en/categories/tech/</link>
+      <pubDate>Fri, 11 Oct 2024 15:21:38 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/en/categories/tech/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

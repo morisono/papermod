@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 15:22:40 +0000</lastBuildDate>
     <atom:link href="https://morisono.github.io/papermod/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3rd</title>
+      <link>https://morisono.github.io/papermod/en/tags/3rd/</link>
+      <pubDate>Fri, 11 Oct 2024 15:22:40 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/en/tags/3rd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test_2</title>
+      <link>https://morisono.github.io/papermod/en/tags/test_2/</link>
+      <pubDate>Fri, 11 Oct 2024 15:21:38 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/en/tags/test_2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Demo</title>
+      <link>https://morisono.github.io/papermod/en/tags/demo/</link>
+      <pubDate>Fri, 11 Oct 2024 14:30:21 +0000</pubDate>
+      <guid>https://morisono.github.io/papermod/en/tags/demo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

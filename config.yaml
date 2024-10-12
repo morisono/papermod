@@ -24,14 +24,16 @@ permalinks:
     post: "/:title/"
 
 defaultContentLanguage: ja
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 
 languages:
     en:
+        contentDir: content/en
         languageName: "English"
-        weight: 1
+        weight: 2
 
     ja:
+        contentDir: content/ja
         languageName: "Japanese"
         weight: 1
 
@@ -47,7 +49,7 @@ profileMode:
         - name: ノート
           url: posts/study
         - name: 日記
-          url: posts/bugs
+          url: posts/daily
         - name: 雑談
           url: posts/life
 

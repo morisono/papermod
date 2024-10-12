@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://morisono.github.io/papermod/01.01-first-post</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
-  </url><url>
-    <loc>https://morisono.github.io/papermod/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
+    <loc>https://morisono.github.io/papermod/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,11 +11,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://morisono.github.io/papermod/"
+                href="https://morisono.github.io/papermod/ja/"
                 />
   </url><url>
-    <loc>https://morisono.github.io/papermod/categories/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
+    <loc>https://morisono.github.io/papermod/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,58 +23,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://morisono.github.io/papermod/categories/"
+                href="https://morisono.github.io/papermod/ja/categories/"
                 />
   </url><url>
-    <loc>https://morisono.github.io/papermod/content/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://morisono.github.io/papermod/en/content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://morisono.github.io/papermod/content/"
-                />
-  </url><url>
-    <loc>https://morisono.github.io/papermod/tags/demo/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
-  </url><url>
-    <loc>https://morisono.github.io/papermod/tags/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://morisono.github.io/papermod/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://morisono.github.io/papermod/tags/"
-                />
-  </url><url>
-    <loc>https://morisono.github.io/papermod/categories/tech/</loc>
-    <lastmod>2024-10-11T14:30:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://morisono.github.io/papermod/en/categories/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://morisono.github.io/papermod/categories/tech/"
-                />
-  </url><url>
-    <loc>https://morisono.github.io/papermod/posts/</loc>
-  </url><url>
-    <loc>https://morisono.github.io/papermod/posts/search.ja./</loc>
-  </url><url>
-    <loc>https://morisono.github.io/papermod/posts/search/</loc>
-  </url><url>
-    <loc>https://morisono.github.io/papermod/series/</loc>
+    <loc>https://morisono.github.io/papermod/ja/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -88,7 +35,19 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://morisono.github.io/papermod/series/"
+                href="https://morisono.github.io/papermod/ja/series/"
+                />
+  </url><url>
+    <loc>https://morisono.github.io/papermod/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://morisono.github.io/papermod/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://morisono.github.io/papermod/ja/tags/"
                 />
   </url>
 </urlset>

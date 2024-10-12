@@ -28,11 +28,13 @@ defaultContentLanguageInSubdir: true
 
 languages:
     en:
+        baseURL: https://morisono.github.io/papermod/en
         contentDir: content/en
         languageName: "English"
         weight: 2
 
     ja:
+        baseURL: https://morisono.github.io/papermod/ja
         contentDir: content/ja
         languageName: "Japanese"
         weight: 1
